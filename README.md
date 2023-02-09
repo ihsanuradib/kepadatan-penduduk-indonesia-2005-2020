@@ -1,3 +1,3 @@
-# kepadatan-penduduk-indonesia-2005-2020
+# Animasi kepadatan penduduk indonesia 2005-2020
 
-<video src="kepadatan-penduduk-indonesia-2005-2020/Output/animation.gif" controls> Animasi </video>
+![Peta GIF](https://github.com/ihsanuradib/kepadatan-penduduk-indonesia-2005-2020/blob/main/Output/animation.gif)
